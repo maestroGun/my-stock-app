@@ -2,4 +2,4 @@ streamlit
 yfinance
 pandas
 plotly
-FinanceDataReader
+git+https://github.com/FinanceData/FinanceDataReader.git
